@@ -1,0 +1,25 @@
+---
+mystudents: 
+ - name: ravi
+   phone: 1234567890
+   email: ravi@gmail.com
+   address: 
+       street: 8
+       doorno: 444
+       pin: 300058
+
+ - name: srikanth
+   phone: 8917341144
+   email: srisrikanta99@gmail.com
+   address: 
+       street: 4
+       doorno: 333
+       pin: 780032
+
+ - name: sikunni
+   phone: 7327063210
+   email: sikuni@gmail.com
+   address:
+       street: 1
+       doorno: 222
+       pin: 759016

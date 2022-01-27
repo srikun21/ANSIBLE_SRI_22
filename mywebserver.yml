@@ -12,5 +12,5 @@
       state: present
   - name: i want to install webserver
     apt: 
-      name:
+      name: apache2
       state: present
